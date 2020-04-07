@@ -93,7 +93,7 @@ Partida p = new Partida();
 p.iniciarPartida(t1,t2);
 p.mostrarResultado();
 p.finalizarPartida();
- System.out.println("********** Integrantes: Gustavo / Renato / Jader *********");
+ System.out.println("********** Integrantes: Gustavo *********");
  System.out.println("********** link git: https://github.com/gtvramos/futjava.git  *********");
  System.out.println("********** Link do vídeo: *********");
 }
