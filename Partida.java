@@ -95,7 +95,7 @@ p.mostrarResultado();
 p.finalizarPartida();
  System.out.println("********** Integrantes: Gustavo *********");
  System.out.println("********** link git: https://github.com/gtvramos/futjava.git  *********");
- System.out.println("********** Link do vídeo: *********");
+ System.out.println("********** Link do vídeo: https://www.youtube.com/watch?v=g7DP2-7TfFo *********");
 }
 }
 
